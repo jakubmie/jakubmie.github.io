@@ -4,15 +4,6 @@ title:              "Mieczkowski lab at Medical University in Gdansk"
 description:        "this is a page for Jakub Mieczkowski lab, we are computational biology lab at the Medical University in Gdansk"
 
 
-# URL
-url:                mieczkowskilab.org
-baseurl:            
-#baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
-
-# Markdown
-markdown:           kramdown
-
 # Highlighter
 highlighter:        rouge
 
