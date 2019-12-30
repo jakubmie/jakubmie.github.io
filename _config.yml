@@ -10,8 +10,8 @@ highlighter:        rouge
 # Navigation
 nav:
 
-  - name:           "abouttt"
-    href:           "/publications"
+  - name:           "about"
+    href:           "/about"
   - name:           "people"
     href:           "/people"
   - name:           "publications"
