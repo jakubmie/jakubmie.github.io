@@ -6,7 +6,7 @@ sectionid: contactjoin
 <div align="center"><h3>How to reach us</h3><br></div>
 <div class="twocolumns" align="center">
     <p>
-	  Medical University of Gdańsk<br>
+	  Medical University of Gdansk<br>
 	  International Research Agenda 3P<br>
 	  Building no. 5<br>
 	  Debinki 12<br>
