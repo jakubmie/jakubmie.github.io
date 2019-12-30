@@ -55,8 +55,8 @@ If you are interested in a post-doc position, please follow this guide:
 
 Successful post-doc applicants will have:
 <br>* PhD degree in computational or biological-related field
-<br>* At least one first author article.
-<br>* Although for computational positions experience with programming is not required, a strong interest in statistics and coding is needed.
+<br>* At least one first author article
+<br>* Although for computational positions experience with programming is not required, a strong interest in statistics and coding is needed
 <br>* An interest in applying for additional funding is welcome
 
 </div>
