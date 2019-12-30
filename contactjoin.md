@@ -83,7 +83,7 @@ If you are interested in a PhD study or want to research for your master's thesi
 
 -- If we like your application, we will arrange a video call for a short discussion with Jakub. This should take around half an hour.
 
--- If we like your application, we will contact you and arrange a visit. The visit will take approximatelly 2 hours. It will allow you to see the lab, and discuss with Jakub as well as others in the lab to give you a better sense of working environment. 
+-- If we think you may be a good fit, we will contact you and arrange a visit. The visit will take approximatelly 2 hours. It will allow you to see the lab, and discuss with Jakub as well as others in the lab to give you a better sense of working environment. 
 
 -- If we think you may be a good fit, we will invite you for an arrange a visit. The visit will take approximatelly 2 hours. It will allow you to see the lab, and discuss with Jakub as well as others in the lab to give you a better sense of working environment.
 
