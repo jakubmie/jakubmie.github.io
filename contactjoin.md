@@ -45,7 +45,7 @@ If you are interested in a post-doc position, please follow this guide:
 -- Email Jakub with the following: 
 <br>* A few sentences about you, your past research experience, your future research interests and why you are interested in our lab. 
 <br>* A copy of your CV, including publication list and contact information to at least three former or current employers/mentors 
-<br>* A '[postdoc]' tag in the subject line of your email.<br>If Jakub will not respond within a few days, please email him again.
+<br>* A '[postdoc]' tag in the subject line of your email.<br>If Jakub does not respond within a few days, please email him again.
 
 -- If we like your application, we will arrange a video call for a short (~20 minutes) presentation and discussion with Jakub. This should take around an hour. 
 
@@ -79,7 +79,7 @@ If you are interested in a PhD study or want to research for your master's thesi
 -- Email Jakub with the following: 
 <br>* A few sentences about you, your research interest and why you are interested in our lab. 
 <br>* A copy of your CV with contact information to at least two former or current employers/mentors 
-<br>* A '[PhD]' or '[MoA]' tag in the subject line of your email.<br>If Jakub will not respond within a few days, please email him again.
+<br>* A '[PhD]' or '[MoA]' tag in the subject line of your email.<br>If Jakub does not respond within a few days, please email him again.
 
 -- If we like your application, we will arrange a video call for a short discussion with Jakub. This should take around half an hour.
 
