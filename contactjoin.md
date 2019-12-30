@@ -9,8 +9,8 @@ sectionid: contactjoin
 	  Medical University of Gdańsk<br>
 	  International Research Agenda 3P<br>
 	  Building no. 5<br>
-	  Dębinki 12<br>
-	  80-211 Gdańsk<br>	
+	  Debinki 12<br>
+	  80-211 Gdansk<br>	
 	  Poland<br>	
   </p>
   <p>
