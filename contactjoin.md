@@ -44,7 +44,7 @@ If you are interested in a post-doc position, please follow this guide:
 	
 -- Email Jakub with the following: 
 <br>* A few sentences about you, your past research experience, your future research interests and why you are interested in our lab. 
-<br>* A copy of your CV, including publication list and contact information to at least three former or current employers/mentors 
+<br>* A copy of your CV, including publication list and contact information to at least three former or current employers/mentors.
 <br>* A '[postdoc]' tag in the subject line of your email.<br>If Jakub does not respond within a few days, please email him again.
 
 -- If we like your application, we will arrange a video call for a short (~20 minutes) presentation and discussion with Jakub. This should take around an hour. 
@@ -54,10 +54,10 @@ If you are interested in a post-doc position, please follow this guide:
 -- After the interview, Jakub will talk with everyone you spoke with. He will contact you to make you an an offer or to encourage you to keep looking. 
 
 Successful post-doc applicants will have:
-<br>* PhD degree in computational or biological-related field
-<br>* At least one first author article
-<br>* Although for computational positions experience with programming is not required, a strong interest in statistics and coding is needed
-<br>* An interest in applying for additional funding is welcome
+<br>* PhD degree in computational or biological-related field.
+<br>* At least one first author article.
+<br>* Although for computational positions experience with programming is not required, a strong interest in statistics and coding is needed.
+<br>* An interest in applying for additional funding is welcome.
 
 </div>
   </div>
@@ -78,7 +78,7 @@ If you are interested in a PhD study or want to research for your master's thesi
 
 -- Email Jakub with the following: 
 <br>* A few sentences about you, your research interest and why you are interested in our lab. 
-<br>* A copy of your CV with contact information to at least two former or current employers/mentors 
+<br>* A copy of your CV with contact information to at least two former or current employers/mentors. 
 <br>* A '[PhD]' or '[MoA]' tag in the subject line of your email.<br>If Jakub does not respond within a few days, please email him again.
 
 -- If we like your application, we will arrange a video call for a short discussion with Jakub. This should take around half an hour.
@@ -90,10 +90,10 @@ If you are interested in a PhD study or want to research for your master's thesi
 -- After the interview, Jakub will talk with everyone you spoke with. He will then reach out with an offer or encourage you to keep looking. 
 
 Successful applicants will have:
-<br>* BS or BA in a biological, computational, or statistics-related field
-<br>* Experience with at least one of the following programming languages: R, Python, C++, Javascript
-<br>* Strong interest in applying to the NSF Graduate Research Fellowships Program (GRFP)
-<br>* Some level of undergraduate research experience is preferred
+<br>* BS or BA in a biological, computational, or statistics-related field.
+<br>* Experience with at least one of the following programming languages: R, Python, C++, Javascript.
+<br>* Strong interest in applying to the NSF Graduate Research Fellowships Program (GRFP).
+<br>* Some level of undergraduate research experience is preferred.
 
 </div>
       </p></div>
