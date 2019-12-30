@@ -85,8 +85,6 @@ If you are interested in a PhD study or want to research for your master's thesi
 
 -- If we think you may be a good fit, we will contact you and arrange a visit. The visit will take approximatelly 2 hours. It will allow you to see the lab, and discuss with Jakub as well as others in the lab to give you a better sense of working environment. 
 
--- If we think you may be a good fit, we will invite you for an arrange a visit. The visit will take approximatelly 2 hours. It will allow you to see the lab, and discuss with Jakub as well as others in the lab to give you a better sense of working environment.
-
 -- After the interview, Jakub will talk with everyone you spoke with. He will then reach out with an offer or encourage you to keep looking. 
 
 Successful applicants will have:
