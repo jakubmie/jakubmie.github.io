@@ -26,7 +26,7 @@ sectionid: contactjoin
 <br>
     <div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=54%C2%B021'56.7%22N%2018%C2%B037'27.6%22E&t=k&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><br>Google Maps Generator by <a href="https://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{position:relative;text-align:right;height:450px;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:100%;}</style></div>
 </div><hr>
-So you think we do interesting stuff and want to become part of the team? That is great, thank you very much for your interest in our lab. We are actively looking for team members. If you are interested in joining us, please read the guides below before applying.
+So you think we do interesting stuff and want to become part of the team? That is great, thank you very much for your interest in our lab. We are actively looking for team members. If you are interested in joining us, please read the guidelines below before applying.
 
 <div class="accordion" id="accordionExample">
 
