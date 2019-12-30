@@ -1,1 +1,69 @@
-theme: jekyll-theme-minimal
+# Basic
+name:               "mieczkowski Lab"
+title:              "Mieczkowski lab at Medical University in Gdansk"
+description:        "this is a page for Jakub Mieczkowski lab, we are computational biology lab at the Medical University in Gdansk"
+
+
+# URL
+url:                http://mieczkowskilab.org
+baseurl:            
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+
+  - name:           "about"
+    href:           "/about"
+  - name:           "people"
+    href:           "/people"
+  - name:           "publications"
+    href:           "/publications"
+  - name:           "contact & join"
+    href:           "/contactjoin"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+  - 
+    scope:
+      path: _papers
+      type: papers
+    values:
+      layout: paper
+      sectionid: publications
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
+  papers:
+    output: true
+    permalink: /papers/:year/:month/:day/:title/
