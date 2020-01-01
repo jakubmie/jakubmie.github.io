@@ -3,20 +3,27 @@ title: Contact
 sectionid: contactjoin
 ---
 
-<div align="center"><h3>How to reach us</h3><br></div>
 <div class="twocolumns" align="center">
     <p>
-	  Medical University of Gdansk<br>
+    <div align="left"><h3>How to reach us</h3><br>
+
+    <hc>Jakub Mieczkowski<br>
+    e: jakubm@gumed.edu.pl<br>
+    p: +48 58 349 11 83<br><br>
+	  Medical University of Gdańsk<br>
 	  International Research Agenda 3P<br>
 	  Building no. 5<br>
-	  Debinki 12<br>
-	  80-211 Gdansk<br>	
-	  Poland<br>	
+	  Dębinki 12<br>
+	  80-211 Gdańsk<br>	
+	  Poland<br></hc>
+	  </div>
   </p>
+
   <p>
-    Jakub Mieczkowski<br>
-    e: jakubm@gumed.edu.pl<br>
-    p: +48 58 349 11 83<br><br><br>
+  <br><br>
+    <div align="right">
+	<img src="{{site.baseurl}}/images/logo/gumed.png" width="150">
+</div>
   </p>
 </div>
 
