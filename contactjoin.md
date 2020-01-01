@@ -21,7 +21,7 @@ sectionid: contactjoin
   <p>
   <br><br>
     <div align="right">
-	<img src="{{site.baseurl}}/images/logo/gumed.png" width="125">
+	<img src="{{site.baseurl}}/images/logo/gumed.png" width="95">
 </div><br><br>
   </p>
 </div>
