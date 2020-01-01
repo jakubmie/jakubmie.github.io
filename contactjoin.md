@@ -3,7 +3,7 @@ title: Contact
 sectionid: contactjoin
 ---
 
-<div class="twocolumns" align="center">
+<div class="twocolumns" align="top">
     <p>
     <div align="left"><h3>How to reach us</h3><br>
 
