@@ -12,7 +12,6 @@ sectionid: contactjoin
     p: +48 58 349 11 83<br><br>
 	  Medical University of Gdansk<br>
 	  International Research Agenda 3P<br>
-	  Building no. 5<br>
 	  Dębinki 12<br>
 	  80-211 Gdansk<br>	
 	  Poland<br></hc>
@@ -22,7 +21,7 @@ sectionid: contactjoin
   <p>
   <br><br>
     <div align="right">
-	<img src="{{site.baseurl}}/images/logo/gumed.png" width="125">
+	<img src="{{site.baseurl}}/images/logo/gumed.png" width="135">
 </div>
   </p>
 </div>
