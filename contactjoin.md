@@ -5,7 +5,7 @@ sectionid: contactjoin
 
 <div class="twocolumns" align="center">
     <p>
-    <div align="left"><h3>How to reach us</h3><br>
+    <div align="left"><h3>How to reach us</h3>
 
     <hc>Jakub Mieczkowski<br>
     e: jakubm@gumed.edu.pl<br>
