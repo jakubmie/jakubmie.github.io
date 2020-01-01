@@ -10,11 +10,11 @@ sectionid: contactjoin
     <hc>Jakub Mieczkowski<br>
     e: jakubm@gumed.edu.pl<br>
     p: +48 58 349 11 83<br><br>
-	  Medical University of Gdańsk<br>
+	  Medical University of Gdansk<br>
 	  International Research Agenda 3P<br>
 	  Building no. 5<br>
 	  Dębinki 12<br>
-	  80-211 Gdańsk<br>	
+	  80-211 Gdansk<br>	
 	  Poland<br></hc>
 	  </div>
   </p>
@@ -22,7 +22,7 @@ sectionid: contactjoin
   <p>
   <br><br>
     <div align="right">
-	<img src="{{site.baseurl}}/images/logo/gumed.png" width="150">
+	<img src="{{site.baseurl}}/images/logo/gumed.png" width="125">
 </div>
   </p>
 </div>
@@ -97,7 +97,6 @@ If you are interested in a PhD study or want to research for your master's thesi
 Successful applicants will have:
 <br>* BS or BA in a biological, computational, or statistics-related field.
 <br>* Experience with at least one of the following programming languages: R, Python, C++, Javascript.
-<br>* Strong interest in applying to the NSF Graduate Research Fellowships Program (GRFP).
 <br>* Some level of undergraduate research experience is preferred.
 
 </div>
