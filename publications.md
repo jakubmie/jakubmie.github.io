@@ -3,7 +3,7 @@ title: Publications
 sectionid: publications
 ---
 
-### Selected publications (<a href="https://scholar.google.pl/citations?user=2oh_MFwAAAAJ&hl=en&oi=ao"><i>full list</i></a>)
+### Selected publicationss (<a href="https://scholar.google.pl/citations?user=2oh_MFwAAAAJ&hl=en&oi=ao"><i>full list</i></a>)
 
 We are committed to <a href="https://en.wikipedia.org/wiki/Open_access">open access</a>. If you find a manuscript that we have co-authored but is not available here, please <a href="/contactjoin">contact us</a> directly and we will be happy to send you an electronic copy.
 
