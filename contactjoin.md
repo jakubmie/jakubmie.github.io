@@ -2,7 +2,7 @@
 title: Contact
 sectionid: contactjoin
 ---
-### How to reach uss
+### How to reach use
 <div class="twocolumns" align="top">
     <p><div align="left">
 
