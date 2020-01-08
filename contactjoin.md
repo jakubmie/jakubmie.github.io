@@ -2,7 +2,7 @@
 title: Contact
 sectionid: contactjoin
 ---
-### How to reach use
+### How to reach us
 <div class="twocolumns" align="top">
     <p><div align="left">
 
@@ -57,7 +57,7 @@ If you are interested in a post-doc position, please follow this guide:
 
 -- If we think you may be a good fit, we will invite you out for an interview. This will likely take an entire day. It will involve an hour formal presentation and informal discussions with Jakub as well as other members of the International Research Agenda. During this visit you should take an opportunity to assess whether you like the environment and will be productive within this group for the next few years. 
 
--- After the interview, Jakub will talk with everyone you spoke with. He will contact you to make you an an offer or to encourage you to keep looking. 
+-- After the interview, Jakub will talk with everyone you spoke with. He will contact you to make you an offer or to encourage you to keep looking. 
 
 Successful post-doc applicants will have:
 <br>* PhD degree in computational or biological-related field.
