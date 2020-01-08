@@ -4,7 +4,7 @@ sectionid: contactjoin
 ---
 ### How to reach uss
 <div class="twocolumns" align="top">
-    <p>
+    <p><div align="left">
 
     <hc>Jakub Mieczkowski<br>
     e: jakubm@gumed.edu.pl<br>
