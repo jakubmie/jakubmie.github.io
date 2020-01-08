@@ -13,7 +13,7 @@ We value the participation of every member of our community and want to ensure e
 Please note that this code of conduct supplements University level policies for your level of employ or study.
 
 # Inclusion and diversity
-We value an inclusive and diverse research environment to support each individuals development and research, and to promote robust decision making and high quality research. All group members are thus dedicated to a harassment-free experience for everyone, regardless of gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form and we also all members to support each other in upholding the following principals:
+We value an inclusive and diverse research environment to support each individuals development and research, and to promote robust decision making and high quality research. All group members are thus dedicated to a harassment-free experience for everyone, regardless of gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment of members of our group in any form and we also support each other in upholding the following principals:
 
 - All communication, be it online or in person, should be appropriate for a professional audience, and be considerate of people from different cultural backgrounds.  
 - Be kind to others, and do not insult or put down other group members. We acknowledge that we will grow as a team, and learn from each other.  
