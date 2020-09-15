@@ -4,9 +4,10 @@ position: member
 avatar: jakubm.jpg
 joined: 2019
 email: jakubm@gumed.edu.pl
+sort_name: mieczkowski_jakub
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/team/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 <i class="fa fa-building"></i> 12 Dębinki St, 80-211 Gdańsk<br>

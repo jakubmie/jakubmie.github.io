@@ -4,5 +4,6 @@ position: member
 avatar: anonymous.jpg
 joined: 2020
 email: mab@gumed.edu.pl
+sort_name: zzz_last
 ---
 

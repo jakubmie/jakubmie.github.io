@@ -10,12 +10,14 @@ highlighter:        rouge
 # Navigation
 nav:
 
-  - name:           "about"
-    href:           "/about"
-  - name:           "people"
-    href:           "/people"
+  - name:           "research"
+    href:           "/research"
+  - name:           "team"
+    href:           "/team"
   - name:           "publications"
     href:           "/publications"
+  - name:           "resources"
+    href:           "/resources"
   - name:           "contact & join"
     href:           "/contactjoin"
 
@@ -40,7 +42,7 @@ defaults:
   -
     scope:
       path:         ""
-      type:         "people"
+      type:         "team"
     values:
       layout:       "profile"
   - 
@@ -52,9 +54,9 @@ defaults:
       sectionid: publications
 
 collections:
-  people:
+  team:
     output: true
-    permalink: /people/:title/index.html
+    permalink: /team/:title/index.html
   papers:
     output: true
     permalink: /papers/:year/:month/:day/:title/
