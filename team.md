@@ -1,19 +1,17 @@
 ---
-title: People
-permalink: /people/
+title: Team
+permalink: /team/
 ---
 
-{% assign people_sorted = site.people | sort: 'name' %}
+{% assign team_sorted = site.team | sort: 'sort_name' %}
 
 
-
-
-<div class="content list people">
-  {% for profile in people_sorted %}
-      <div class="list-item-people">
+<div class="content list team">
+  {% for profile in team_sorted %}
+      <div class="list-item-team">
         <p class="list-post-title">
           {% if profile.avatar %}
-           <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+           <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/team/{{profile.avatar}}"></a>
           {% else %}
            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/.jpg"></a>
           {% endif %}
@@ -22,6 +20,4 @@ permalink: /people/
       </div>    
   {% endfor %}
 </div>
-
-
 
