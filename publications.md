@@ -12,6 +12,9 @@ We are committed to <a href="https://en.wikipedia.org/wiki/Open_access">open acc
 <hr>
 <div class="container">
     {% for pub in site.papers reversed %} 
+ 		{% if pub.state == "hidden" %}
+			{% continue %}
+		{% endif %}
     <div class="row" > <div class="col-md-12">
     {{ pub }}
     </div></div>

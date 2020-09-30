@@ -8,7 +8,7 @@ sectionid: contactjoin
 
     <hc>Jakub Mieczkowski<br>
     e: jakubm@gumed.edu.pl<br>
-    p: +48 58 349 11 83<br><br>
+    p: +48 58 349 18 50<br><br>
 	  Medical University of Gdansk<br>
 	  International Research Agenda 3P<br>
 	  Building no. 5<br>
