@@ -5,9 +5,13 @@ permalink: /team/
 
 {% assign team_sorted = site.team | sort: 'sort_name' %}
 
+### Team
 
 <div class="content list team">
   {% for profile in team_sorted %}
+      {% if profile.position == 'alumnus' or profile.position == 'disable' %}
+        {% continue %}
+      {% endif %}
       <div class="list-item-team">
         <p class="list-post-title">
           {% if profile.avatar %}
@@ -21,3 +25,12 @@ permalink: /team/
   {% endfor %}
 </div>
 
+<hr>
+
+[Code of Conduct](/assets/docs/lab_code_of_conduct)
+
+<hr>
+
+### Alumni
+
+* Joanna Tomczak 2020 (master studnet) 

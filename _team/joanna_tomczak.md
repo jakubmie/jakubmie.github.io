@@ -1,6 +1,6 @@
 ---
 name: Joanna Tomczak
-position: member
+position: alumnus
 avatar: placeholder.png
 joined: 2020
 email: jtomczak97@gumed.edu.pl
